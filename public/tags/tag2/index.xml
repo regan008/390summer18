@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on The Digital Past</title>
+    <link>http://amanda-regan.com/390summer18/tags/tag2/</link>
+    <description>Recent content in Tag2 on The Digital Past</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://creativecommons.org/licenses/by/4.0/&#39; target=&#39;_blank&#39;&gt;&lt;img src=&#39;https://mirrors.creativecommons.org/presskit/icons/by.svg&#39; height=&#39;25&#39;&gt; Licensed CC-BY.&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 17 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://amanda-regan.com/390summer18/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Post Rubric &amp; Criteria</title>
+      <link>http://amanda-regan.com/390summer18/blogcriteria/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amanda-regan.com/390summer18/blogcriteria/</guid>
+      <description>Throughout the semester you will write a total of 6 blog posts. Each blog post will build on a topic discussed in class and they will often build on our in class tool tutorials. Blog posts will be due the following Sunday by 9:00am.
+Your blog posts should be at least 350-500 words and should be written in a semi-formal scholarly style (complete thoughts, correct spelling, grammar and syntax.) Please use the Chicago style guide to cite any sources.</description>
+    </item>
+    
+    <item>
+      <title>Policies</title>
+      <link>http://amanda-regan.com/390summer18/policies/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amanda-regan.com/390summer18/policies/</guid>
+      <description>Communication Students are welcome to come to my office hours or to arrange an appointment at any time during the semester. All other course communication will take place in our Slack group. If you have registered for the course, and have not received an invitation in your email, please add yourself to the group using your Mason e-mail address. All course announcements will be posted to the #h390summer2018 channel and you are responsible for checking this venue regularly.</description>
+    </item>
+    
+  </channel>
+</rss>
