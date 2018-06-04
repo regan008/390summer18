@@ -16,6 +16,7 @@ date = "2018-02-17"
 
 * Purchase a [Student Plan ($30)](https://reclaimhosting.com/shared-hosting/) from Reclaim Hosting
 * Take the [Student Technology Survey](https://goo.gl/forms/sh3ksy4KulsPXLEN2)
+
 ---
 
 ### Week 1, Wednesday June 6th
