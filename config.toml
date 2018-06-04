@@ -48,6 +48,7 @@ copyright = "<a href='https://creativecommons.org/licenses/by/4.0/' target='_bla
   course_location = "Sandbridge Hall 107"
 
   course_slack_url = "https://h390.slack.com"
+  assignment_submission_link = "https://goo.gl/forms/UFenyWhrC5bTrMMu2"
   instructor_name = "Amanda Regan"
   instructor_email = "aregan (at) gmu.edu"
   twitter_handle = "@regan008"
