@@ -38,13 +38,29 @@ date = "2018-02-17"
 
 * Install and Explore Wordpress
 	* Useful Resources:
-		* [Installing Wordpress,â Reclaim Hosting](https://community.reclaimhosting.com/t/installing-wordpress/265)
+		* [Installing Wordpress, Reclaim Hosting](https://community.reclaimhosting.com/t/installing-wordpress/265)
 		* [First Steps with Wordpress, Wordpress Codex](https://codex.wordpress.org/First_Steps_With_WordPress)
+* Install a theme such as [Period](https://wordpress.org/themes/period/), [Blog Mantara](https://wordpress.org/themes/blogmantra), or a theme of your choice. Build out your site and include an about page and a menu.
 
 **After Class:**
 
-* Fill out this form so I know where to find your blog.
-* **Assignment:** Write a blog post that reviews one of the Digital History projects listed below. You may wish to consult the Organization of American Historian’s guidelines for reviewing digital history project. _**Due before the start of class June 11th.**_
+* Submit the URL to your blog via the [assignment submission form.](https://docs.google.com/forms/d/e/1FAIpQLSfNMUcIqmnG8Xk1sSeQI4zkNbPhdOalIJl19k9CYn497f7yyA/viewform)
+* **Assignment:** Write a blog post that reviews one of the Digital History projects listed below. You may wish to consult the Organization of American Historian’s [guidelines for reviewing digital history projects](http://jah.oah.org/submit/digital-history-reviews/). <br> _**Due before the start of class June 11th. Submit a link to your blog post through the [assignment submission form.](https://docs.google.com/forms/d/e/1FAIpQLSfNMUcIqmnG8Xk1sSeQI4zkNbPhdOalIJl19k9CYn497f7yyA/viewform)**_
+
+**Projects for Review**:
+
+* [Mapping Early American Elections](http://earlyamericanelections.org/)
+* [Digital Harlem](http://digitalharlem.org/)
+* [Geography of the Post](http://cameronblevins.org/gotp/)
+* [Wearing Gay History](http://www.wearinggayhistory.com)
+* [Histories of the National Mall](http://mallhistory.org/)
+* [Hurricane Digital Memory Bank](http://chnm.gmu.edu/hurricane-digital-memory-bank/)
+* [Language of the State of the Union](Language of the State of the Union, Mapping the State of the Union, and The State of the Union in Context), [Mapping the State of the Union](https://www.theatlantic.com/politics/archive/2015/01/mapping-the-state-of-the-union/384576/), and [The State of the Union in Context](http://benschmidt.org/poli/2015-SOTU)
+* [September 11th Digital Archive](http://911digitalarchive.org/)
+* [Mining the Dispatch](http://dsl.richmond.edu/dispatch/)
+* [Valley of the Shadow](http://valley.lib.virginia.edu/)
+* [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
+
 
 ---
 ### Week 2, Monday June 11th
