@@ -37,7 +37,7 @@ slug = "assignments"
     </tr>
     <tr>
       <th scope="row">Skills Assessments</th>
-      <td>TBD</td>
+      <td>Throughout semester. </td>
       <td>8 @ 5% Each (40%)</td>
     </tr>
   </tbody>

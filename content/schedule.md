@@ -4,7 +4,7 @@ draft = false
 title = "Schedule"
 slug = "schedule"
 layout = "single-para"
-date = "2018-02-17"
+date = "2018-06-06"
 +++
 
 ### Week 1, Monday June 4th
@@ -106,6 +106,10 @@ date = "2018-02-17"
 * [Echoes from the Triangle Fire. Dr. Price Suggests Co-operation Between the Waist Makers' Union and the Board of Sanitary Control.](http://trianglefire.ilr.cornell.edu/primary/newspapersMagazines/lgw_0911.html?sto_sec=mourning) _Ladies' Garment Worker_, September, 1911. p.6.
 * GREENWALD, RICHARD A. ["The Burning Building at 23 Washington Place": The Triangle Fire, Workers and Reformers in Progressive Era New York."](http://www.jstor.org.mutex.gmu.edu/stable/23183517 ) New York History 83, no. 1 (2002): 55-91.
 
+**In Class:**
+
+* [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdTdzxnpFlYSgIiXtxGHY1s617E5SOrbbuFJnTHXO0B1NFsuA/viewform?usp=sf_link)
+* [Primary Source Activity](/390summer18/week2wed)
 
 **After Class:**
 
@@ -127,7 +131,7 @@ date = "2018-02-17"
 **Reading:**
 
 * Jacob Riis, [How the Other Half Lives](http://www.americanyawp.com/reader/18-industrial-america/jacob-riis-how-the-other-half-lives-1890/)
-* Upton Sinclair, The Junegle excerpts (pdf to be provided)
+* Upton Sinclair, [The Jungle](https://books.google.com/books?id=b7QpAAAAYAAJ), Chapter 10
 
 **After Class:**
 
@@ -150,10 +154,13 @@ date = "2018-02-17"
 * Miriam Posner, [Up and Running with Omeka](https://programminghistorian.org/en/lessons/up-and-running-with-omeka), The Programming Historian (2013).
 * Explore Dublin Core, [“Metadata Basics.”](http://dublincore.org/documents/dcmi-terms/)
 
+**In  Class**:
+
+* [Copyright Assessment Activity](/390summer18/week3wed)
 
 **After Class:**
 
-* **Skill Assignment**: Using the primary sources that you gathered during class create an Omeka collection of at least 5 primary sources. Each item should have complete metadata although not every Dublin Core field needs to be filled out. Be sure to include a reference to where you found the item and a rights statement if appropriate. _**Due before the start of class June 25th.**_
+* **Skill Assignment**: Using the primary sources that you gathered during last week create an Omeka collection of at least 5 primary sources. Each item should have complete metadata although not every Dublin Core field needs to be filled out. Be sure to include a reference to where you found the item and a rights statement if appropriate. _**Due before the start of class June 25th via the assignment [submission form](https://docs.google.com/forms/d/e/1FAIpQLSfNMUcIqmnG8Xk1sSeQI4zkNbPhdOalIJl19k9CYn497f7yyA/viewform)**_
 
 ---
 
