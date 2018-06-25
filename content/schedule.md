@@ -4,7 +4,7 @@ draft = false
 title = "Schedule"
 slug = "schedule"
 layout = "single-para"
-date = "2018-06-06"
+date = "2018-06-25"
 +++
 
 ### Week 1, Monday June 4th
