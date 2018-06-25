@@ -52,7 +52,7 @@ This is an abbreviated summer class making attendance even more crucial to your 
 While class participation necessitates you attend class, it is not defined solely by attendance. I expect that students will come to class having done the readings beforehand. Students should be ready to discuss the readings, exchange ideas, and actively participate in class discussions. Grades will be determined by not just your presence in class but also by your contribution to class discussions and activities.
 
 ### Midterm (20%)
-There will be an in-class midterm on Monday, July 2.
+There will be an in-class midterm on Monday, July 2. [See the study guide here.](/390summer18/midterm)
 
 ### Blog Posts (20%):
 For each assignment you will write a well argued blog post of approximately 500 words. Each post should be written in a semi-formal manner with correct prose that includes full sentences, paragraphs, and topic sentences. Be sure to respond fully to the prompt but do not simply list answers to all the questions. Thoughtful posts will receive full credit (3pts), others will receive partial(1.5pts) or no credit.
