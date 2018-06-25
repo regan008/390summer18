@@ -45,4 +45,4 @@ Of these four (3) essay questions two (2) will appear on the exam and you will w
 1. What is Digital History? Be specific about the methodologies and types of Digital History. Reference specific examples where applicable.
 1. How did gender influence the dynamics of the labor movement and the investigations that took place in the aftermath of the Triangle Shirtwaist Fire?
 
-See the grading rubric here.
+[See the grading rubric here.](/390summer18/midterm-rubric)
