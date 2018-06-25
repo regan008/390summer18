@@ -173,9 +173,11 @@ date = "2018-06-06"
 
 **Reading:**
 
-* Rosezweig, “The Rise of the Saloon” in Eight Hours for What We Will (pdf to be provided)
 * [Exhibit Builder Tutorial](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/)
 
+**In Class:**
+
+* [Activity: Evaluating Omeka Exhibits for doing History Online](/390summer18/week4mon)
 
 **After Class:**
 
