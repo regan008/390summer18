@@ -181,7 +181,7 @@ date = "2018-06-25"
 
 **After Class:**
 
-* Skill Assignment: Using the items you added to Omeka last class, build an exhibit that tells a coherent story about some aspect of Progressive Era history. Each exhibit should include 5 items with proper metadata and an image. Use prose to link these items together. _**Due before the start of class July 2nd.**_
+* Skill Assignment: Using the items you added to Omeka last class, build an exhibit that tells a coherent story about some aspect of Progressive Era history. Each exhibit should include 5 items with proper metadata and an image. Use prose to link these items together. Your exhibit should be between 400 and 750 words and structured/organized in a way that is suitable to the content. All secondary sources used to contextualize the items should be cited using Chicago format. _**Due before the start of class July 2nd.**_
 
 ---
 
