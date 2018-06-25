@@ -34,6 +34,8 @@ On the day of the exam you will be asked to define three (3) historical terms an
 * Digital Identity
 * Hypertextuality
 * Accessibility
+* Fair Use
+
 
 ## Part 2: Essay questions (20pts)
 
