@@ -209,7 +209,8 @@ date = "2018-06-25"
 * **Skill Assignment**: Work with a group of no more than 4 people to create a database model in Airtable.
 	* Decide on a scheme for the database, i.e. what tables will hold which fields. Enter a few items to make sure the model fits the data.
 	* Once you’ve finalized your model, each person should contribute at least 20 records (rows) to the database. Be sure to mark each persons contribution in a column.
-	* Each member of the group should write a blog post that describes the database model you came up with in class. Explain the decisions you made to normalize the data. What did you learn about databases? How can databases be useful for historical research?
+	* Each member of the group should write a blog post that describes the database model you came up with in class. Explain the decisions you made to normalize the data. What did you learn about databases? How can databases be useful for historical research? What did you learn about Jim Crow and lynching by making this database? How could a database such as the one you built help you analyze a historical question?
+		* Your blog should be between 500 and 750 words and written in a scholarly format. Please create a shareable link to your database and submit *both* that link as well as the link to your blog through the assignment submission form. 
 * _**Due before the start of class July 2nd.**_
 
 ---
