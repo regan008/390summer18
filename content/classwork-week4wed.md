@@ -7,6 +7,12 @@ layout = "single-para"
 date = "2018-06-27"
 +++
 
+
+#### Data for Today:
+
+* [Lynching Data](https://www.dropbox.com/s/brue36acmqwo5ya/Lynchingdata.xlsx?dl=0)
+* [Slides from today](https://www.dropbox.com/s/ugyiznpazkctow5/DatabaseSlides.pdf?dl=0)
+
 #### Useful Links & Resources:
 
 * [Lynda.com Relational Database Video](https://www.lynda.com/Programming-Foundations-tutorials/Defining-table-relationships/412845/438419-4.html)
