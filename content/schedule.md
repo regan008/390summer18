@@ -241,9 +241,24 @@ date = "2018-06-25"
 
 * Sign up for [Carto](http://www.carto.com)
 
+**In Class**:
+
+* [Quiz](https://goo.gl/forms/kn6QTDx7BOgglWai1)
+
+* [Animal City](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=397)
+* [“Mapping Inequality: Redlining in New Deal America”](https://dsl.richmond.edu/panorama/redlining/#loc=5/34.235/-97.778&opacity=0.8)
+* [Data](https://www.dropbox.com/s/wlu7idzyakc03qa/lynchingdata_geocoded.csv?dl=0)
+
+* Helpful Resources:
+  * [Carto documentation](https://carto.com/learn/guides/)
+  * [Exploring Data with Widgets](https://carto.com/learn/guides/widgets/exploring-widgets/)
+  * [Georeference Data](https://carto.com/learn/guides/analysis/georeference/)
+  * [Publishing and Sharing Maps](https://carto.com/learn/guides/publish-share/publishing-and-sharing/)
+  * [Describing Data with Legends](https://carto.com/learn/guides/publish-share/describing-data-with-legends/)
+  * [Enabling Pop-Up Information Windows](https://carto.com/learn/guides/publish-share/enabling-pop-up-information-windows/)
+
 **Reading:**
 
-* Excerpt from David Blight, “Race and Reunion” (pdf to come)
 * Richard White, [“What is Spatial History?”](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)
 * Edward L. Ayers & Scott Nesbit, [“Seeing Emancipation: Scale and Freedom in the American South,”](https://muse.jhu.edu/article/417310) Journal of the Civil War Era, Vol 1 No 1 (2011): 3-24.
 	* Explore: [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
@@ -264,7 +279,7 @@ date = "2018-06-25"
 
 **Reading:**
 
-* Excerpt from Maureen Flannagan, “Seeing with their Hearts”
+* Maureen A. Flanagan, ["Gender and Urban Political Reform: The City Club and the Woman's City Club of Chicago in the Progressive Era"](https://www-jstor-org.mutex.gmu.edu/stable/2163477 ) in _The American Historical Review_ (Available online through GMU)
 * Experiment with:
 	* [Google Books Ngram Viewer](https://books.google.com/ngrams)
 	* [Bookworm](bookworm.culturomics.org)
